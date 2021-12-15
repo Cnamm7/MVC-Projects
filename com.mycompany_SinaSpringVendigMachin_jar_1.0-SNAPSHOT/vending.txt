@@ -1,0 +1,8 @@
+Sandwich::7::10
+Water::4::1.24
+CocaCola::2::1
+Pringles::45::2.22
+Sprit::0::0.5
+CHEETOS::0::2
+Chocolate::0::1.56
+Bread::10::1.35
