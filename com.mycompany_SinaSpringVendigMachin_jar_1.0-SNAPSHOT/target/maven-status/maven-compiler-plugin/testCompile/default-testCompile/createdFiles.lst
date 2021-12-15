@@ -1,0 +1,4 @@
+com\mycompony\sinavendingmachin\service\VendingMachinServiceLayerImplTest.class
+com\mycompony\sinavendingmachin\dao\VendingMachinAuditDaoStubImpl.class
+com\mycompony\sinavendingmachin\dao\VendingMachinDaoStubImpl.class
+com\mycompony\sinavendingmachin\dao\VendingMachinDaoFileImplTest.class
